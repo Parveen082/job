@@ -197,9 +197,9 @@ if(isset($_SESSION['id_user']) || isset($_SESSION['id_company'])) {
   <!-- /.content-wrapper -->
 
   <footer class="main-footer" style="margin-left: 0px;">
-    <div class="text-center">
-      <strong>Copyright &copy; 2016-2017 <a href="learningfromscratch.online">Job Portal</a>.</strong> All rights
-    reserved.
+  <div class="text-center">
+      <strong>Copyright &copy; 2024-2025 Job Portal</a>.</strong> All rights
+      reserved.
     </div>
   </footer>
 
