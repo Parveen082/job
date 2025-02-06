@@ -99,9 +99,9 @@ if(isset($_SESSION['id_user']) || isset($_SESSION['id_company'])) {
           <div class="col-md-6 latest-job ">
             <div class="small-box bg-yellow padding-5">
               <div class="inner">
-                <h3 class="text-center">Candidates Login</h3>
+                <h3 class="text-center">ADMIN LOGIN</h3>
               </div>
-              <a href="login-candidates.php" class="small-box-footer">
+              <a href="admin/dashboard.php" class="small-box-footer">
                 Login <i class="fa fa-arrow-circle-right"></i>
               </a>
             </div>
@@ -109,7 +109,7 @@ if(isset($_SESSION['id_user']) || isset($_SESSION['id_company'])) {
           <div class="col-md-6 latest-job ">
             <div class="small-box bg-red padding-5">
               <div class="inner">
-                <h3 class="text-center">Company Login</h3>
+                <h3 class="text-center">PARTNER LOGIN</h3>
               </div>
               <a href="login-company.php" class="small-box-footer">
                 Login <i class="fa fa-arrow-circle-right"></i>
@@ -127,8 +127,7 @@ if(isset($_SESSION['id_user']) || isset($_SESSION['id_company'])) {
 
   <footer class="main-footer" style="margin-left: 0px;">
     <div class="text-center">
-      <strong>Copyright &copy; 2024-2025 Job Portal<a href="learningfromscratch.online">Job Portal</a>.</strong> All rights
-    reserved.
+      <strong><h3>thank you for visiting </h3>
     </div>
   </footer>
 

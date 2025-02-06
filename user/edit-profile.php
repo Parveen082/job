@@ -183,8 +183,7 @@ require_once("../db.php");
 
   <footer class="main-footer" style="margin-left: 0px;">
   <div class="text-center">
-      <strong>Copyright &copy; 2024-2025 Job Portal</a>.</strong> All rights
-      reserved.
+      <h3>thank you for visiting </h3>
     </div>
   </footer>
 
